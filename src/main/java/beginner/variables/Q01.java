@@ -11,6 +11,6 @@ public class Q01 {
         double hat=6.50;
         double glove=2.60;
 
-        System.out.println("Sum Price"+(shirt+hat+glove));
+        System.out.println("Sum Price= "+(shirt+hat+glove));
     }
 }
